@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://shaikgafoor83.vercel.app/" target="_blank">ShaikGafoor</a>
+  <a href="https://shaikgafoor-83.vercel.app/" target="_blank">ShaikGafoor</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/Img.png" />
@@ -31,7 +31,7 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## Built With
 
-My personal portfolio <a href="https://shaikgafoor83.vercel.app/" target="_blank">ShaikGafoor</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://shaikgafoor-83.vercel.app/" target="_blank">ShaikGafoor</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
